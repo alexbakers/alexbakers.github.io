@@ -5,12 +5,12 @@
   "name": "Dave Starbelly",
   "attributes": [
     {
-      "trait_type": "Base", 
-      "value": "Starfish"
+      "trait_type": "Token", 
+      "value": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB"
     }, 
     {
-      "trait_type": "Eyes", 
-      "value": "Big"
+      "trait_type": "Amount",
+      "value": "0.1"
     }, 
     {
       "trait_type": "Mouth", 
